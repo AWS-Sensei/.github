@@ -17,7 +17,7 @@ resources save you time and help you build real skills.
 - [.github](https://github.com/AWS-Sensei/.github)
 - [Blog](https://github.com/AWS-Sensei/Blog)
 - [Flashcard-App](https://github.com/AWS-Sensei/Flashcard-App)
-- [Flashcard-Content](https://github.com/AWS-Sensei/Flashcard-Content) (private)
+- [Flashcard-Content](https://github.com/AWS-Sensei/Flashcard-Content) 🔒
 - [Infrastructure](https://github.com/AWS-Sensei/Infrastructure)
 
 ## How to get involved
