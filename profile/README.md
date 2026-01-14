@@ -1,5 +1,7 @@
 # Hi, I'm AWS-Sensei
 
+![AWS-Sensei banner](https://raw.githubusercontent.com/AWS-Sensei/.github/main/image/aws-sensei.png)
+
 I am building AWS-Sensei to make AWS learning clear, practical, and consistent.
 This organization is my public workspace for flashcards, labs, blog posts, and
 supporting infrastructure. If you are learning or teaching AWS, I hope these
